@@ -1,0 +1,15 @@
+D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\bin\Debug\net6.0\CheckLinksConsole.exe
+D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\bin\Debug\net6.0\CheckLinksConsole.deps.json
+D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\bin\Debug\net6.0\CheckLinksConsole.runtimeconfig.json
+D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\bin\Debug\net6.0\CheckLinksConsole.dll
+D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\bin\Debug\net6.0\ref\CheckLinksConsole.dll
+D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\bin\Debug\net6.0\CheckLinksConsole.pdb
+D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\obj\Debug\net6.0\CheckLinksConsole.csproj.AssemblyReference.cache
+D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\obj\Debug\net6.0\CheckLinksConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\obj\Debug\net6.0\CheckLinksConsole.AssemblyInfoInputs.cache
+D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\obj\Debug\net6.0\CheckLinksConsole.AssemblyInfo.cs
+D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\obj\Debug\net6.0\CheckLinksConsole.csproj.CoreCompileInputs.cache
+D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\obj\Debug\net6.0\CheckLinksConsole.dll
+D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\obj\Debug\net6.0\ref\CheckLinksConsole.dll
+D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\obj\Debug\net6.0\CheckLinksConsole.pdb
+D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\obj\Debug\net6.0\CheckLinksConsole.genruntimeconfig.cache
