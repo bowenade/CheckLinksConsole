@@ -13,3 +13,5 @@ D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\obj\Debug\net6.0\Chec
 D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\obj\Debug\net6.0\ref\CheckLinksConsole.dll
 D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\obj\Debug\net6.0\CheckLinksConsole.pdb
 D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\obj\Debug\net6.0\CheckLinksConsole.genruntimeconfig.cache
+D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\bin\Debug\net6.0\HtmlAgilityPack.NetCore.dll
+D:\study\Demo Projects\CheckLinksConsole\CheckLinksConsole\obj\Debug\net6.0\CheckLinksConsole.csproj.CopyComplete
